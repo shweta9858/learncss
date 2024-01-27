@@ -1,0 +1,7 @@
+h1{
+    color: red;
+    scroll-snap-type: x mandatory;
+}
+div{
+     scroll-snap-align: center;
+}
